@@ -12,8 +12,8 @@ I'm a student learning backend development with a focus on **Node.js**. Currentl
   - Node.js, Postman, MongoDB Compass, MySQL Workbench
   - IDEs: Visual Studio, VS Code, IntelliJ IDEA, MatLab, AutoCad
 
-### Design & Drafting Tools
-- **AutoCad** (Beginner level) for design and drafting purposes.
+- **Design & Drafting Tools**
+  - **AutoCad** (Beginner level) for design and drafting purposes.
 
 ## 🚀 Current Project
 
