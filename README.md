@@ -28,6 +28,6 @@ I'm a web development learner focused on backend technologies like Node.js. My g
 - IT Essentials
 - Cambridge English B2 (English proficiency)
 
-## 🧮 Fun Fact
+## 🧮 Outside the Code
 
 Growth happens at the edge of discomfort. Limits are illusions—what others call impossible is just a challenge to conquer. I thrive on solving mathematical problems and LeetCode challenges, knowing that with relentless effort and discipline, nothing stands in the way of achieving greatness.
