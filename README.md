@@ -15,10 +15,6 @@ I'm a student learning backend development with a focus on **Node.js**. Currentl
 - **Design & Drafting Tools**
   - **AutoCad** (Beginner level) for design and drafting purposes.
 
-## 🚀 Current Project
-
-- [TaskManager Application](https://github.com/StefanCondorache/JavaScript-Node/tree/master/NodeJSProjects/TaskManager) - A backend project built with Node.js to demonstrate current skills in backend development.
-
 ## 🎯 About Me
 
 I'm a web development learner focused on backend technologies like Node.js. My goal is to build practical knowledge through real-world projects and challenges. Feel free to explore my repositories to see how I'm progressing!
