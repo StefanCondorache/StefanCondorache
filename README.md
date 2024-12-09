@@ -1,6 +1,10 @@
 # Hi, I'm Ștefan (Bobberino) 👋
 
-I'm a student learning backend development with a focus on **Node.js**. Currently, I'm working on projects to improve my skills and understanding of building scalable systems.
+## 🎯 About Me
+
+I'm a student, web development learner focused on backend technologies like **Node.js**. Currently, I'm working on projects to improve my skills and understanding of building scalable systems.
+My goal is to build practical knowledge through real-world projects and challenges. Feel free to explore my repositories to see how I'm progressing!
+
 
 ## 🛠️ Technologies & Tools
 
@@ -14,10 +18,6 @@ I'm a student learning backend development with a focus on **Node.js**. Currentl
 
 - **Design & Drafting Tools**
   - **AutoCad** (Beginner level) for design and drafting purposes.
-
-## 🎯 About Me
-
-I'm a web development learner focused on backend technologies like Node.js. My goal is to build practical knowledge through real-world projects and challenges. Feel free to explore my repositories to see how I'm progressing!
 
 ## 📚 Certifications
 
