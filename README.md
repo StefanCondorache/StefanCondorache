@@ -21,7 +21,7 @@ My goal is to build practical knowledge through real-world projects and challeng
 
 ## 📚 Certifications
 
-- Roadmap.sh - "Master SQL" 
+- Roadmap.sh - "Master SQL Queries" 
 - Cisco - "IT Essentials"
 - Cambridge English B2 (English proficiency)
 
