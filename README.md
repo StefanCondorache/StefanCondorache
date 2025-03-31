@@ -21,7 +21,8 @@ My goal is to build practical knowledge through real-world projects and challeng
 
 ## 📚 Certifications
 
-- IT Essentials
+- Roadmap.sh - "Master SQL" 
+- Cisco - "IT Essentials"
 - Cambridge English B2 (English proficiency)
 
 ## 🧮 Outside the Code
