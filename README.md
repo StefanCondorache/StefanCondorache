@@ -13,7 +13,7 @@ My goal is to build practical knowledge through real-world projects and challeng
   - **Beginner  :**  C#, MatLab
 - **Databases**: MySQL, MongoDB
 - **Tools**: 
-  - Node.js, Postman, MongoDB Compass, MySQL Workbench
+  - Git, Node.js, Postman, MongoDB Compass, MySQL Workbench
   - IDEs: Visual Studio, VS Code, IntelliJ IDEA
 
 - **Design & Drafting Tools**
