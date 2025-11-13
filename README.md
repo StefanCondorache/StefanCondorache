@@ -1,8 +1,8 @@
-# Hi, I'm Ștefan (Bobberino) 👋
+# Hi, I'm Ștefan 👋
 
 ## 🎯 About Me
 
-I'm a student, web development learner focused on backend technologies like **Node.js**. Currently, I'm working on projects to improve my skills and understanding of building scalable systems.
+Currently, I'm working on projects to improve my skills and understanding of building scalable systems.
 My goal is to build practical knowledge through real-world projects and challenges. Feel free to explore my repositories to see how I'm progressing!
 
 
