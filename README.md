@@ -1,4 +1,4 @@
-# Ștefan Condorache — Projects
+# Ștefan Condorache
 
 Currently, I'm working on projects to improve my skills and understanding of building scalable systems. My goal is to build practical knowledge through real-world projects and challenges. Feel free to explore my repositories to see how I'm progressing!
 
