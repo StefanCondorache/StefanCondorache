@@ -80,3 +80,11 @@ A management system designed to demonstrate Object-Oriented Programming (OOP) pr
 *Last Updated: April 2026*
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bobberino&show_icons=true&theme=dark&title_color=00f900&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobberino&show_icons=true&theme=dark&title_color=00f900&layout=compact" alt="Most Used Languages" />
+</p>
