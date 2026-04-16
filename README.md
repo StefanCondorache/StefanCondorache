@@ -82,9 +82,9 @@ A management system designed to demonstrate Object-Oriented Programming (OOP) pr
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bobberino&show_icons=true&theme=dark&title_color=00f900&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanCondorache&show_icons=true&theme=dark&title_color=00f900&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobberino&show_icons=true&theme=dark&title_color=00f900&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StefanCondorache&show_icons=true&theme=dark&title_color=00f900&layout=compact" alt="Most Used Languages" />
 </p>
