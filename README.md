@@ -68,9 +68,8 @@ A management system designed to demonstrate Object-Oriented Programming (OOP) pr
 
 ---
 
-### Contact & Links
+### Contact
 
-* **GitHub:** [StefanCondorache](https://github.com/StefanCondorache)
 * **Email:** [condorachest@gmail.com](mailto:condorachest@gmail.com)
 
 ---
