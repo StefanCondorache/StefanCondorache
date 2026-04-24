@@ -18,7 +18,8 @@ I am a software engineer and mathematician currently studying at the **Politehin
 ### Tech Stack
 
 **Languages:** Python, C++, Java, JavaScript, Bash, HTML/CSS
-**Frameworks/Tools:** TensorFlow, Keras, NumPy, scikit-learn, PySide6, Node.js, Git, Linux (BlueZ, NetworkManager)
+
+**Frameworks/Tools:** TensorFlow, Keras, NumPy, scikit-learn, PySide6, Node.js, Git, Linux
 
 ---
 
